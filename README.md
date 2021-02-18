@@ -1,6 +1,6 @@
 # LBI_R_Club
 
-Meeting time Tuesdays @ 4pm
+Meeting time Thurs @ 3pm
 
 ## R Resources
 
